@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* 2014-2015: R\&D Software Engineer
+* 2014-2015: R&D Software Engineer
   * upicto GmbH
   * The project was a contract by MeteoSchweiz to further improve the algorithm developed during my master thesis and productize the findings. I worked on improving the algorithm to estimate the visibility based on images, developing a rendering pipeline using openGL, programming a GUI and designing an image preprocessing pipeline to decide if an image is suitable for visibility estimation.
 
-* 2015-2018: R\&D Software Engineer
+* 2015-2018: R&D Software Engineer
   * Logitech
   * Consumer Video Unit: I have been mainly working for Logitech’s consumer video unit on developing and improving computer vision algorithms. The work includes various subtasks in a video analytics pipeline which involves motion estimation, as well as appearance based classification and detection methods and testing the developed methods.
   
