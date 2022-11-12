@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Information Technology and Electrical Engineering, ETH Zurich, 2012
+* M.Sc. in Information Technology and Electrical Engineering, ETH Zurich, 2012
+* Ph.D in Machine Learning, ETH Zurich, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-2015: R\&D Software Engineer
+  * upicto GmbH
+  * The project was a contract by MeteoSchweiz to further improve the algorithm developed during my master thesis and productize the findings. I worked on improving the algorithm to estimate the visibility based on images, developing a rendering pipeline using openGL, programming a GUI and designing an image preprocessing pipeline to decide if an image is suitable for visibility estimation.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015-2018: R\&D Software Engineer
+  * Logitech
+  * Consumer Video Unit: I have been mainly working for Logitech’s consumer video unit on developing and improving computer vision algorithms. The work includes various subtasks in a video analytics pipeline which involves motion estimation, as well as appearance based classification and detection methods and testing the developed methods.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -56,4 +48,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
