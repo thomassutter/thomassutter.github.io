@@ -6,7 +6,7 @@ excerpt: 'We propose a differentiable two-stage formulation for random partition
 date: 2023-10-15
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2305.16841'
-citation: '<b>TM Sutter</b>, <b>A Ryser</b>, H Liebeskind, JE Vogt. (2023) &quot;Differentiable Random Partition Models.&quot; <i>NeurIPS 2023</i>.'
+citation: '<b>TM Sutter</b>, <b>A Ryser</b>, J Liebeskind, JE Vogt. (2023) &quot;Differentiable Random Partition Models.&quot; <i>NeurIPS 2023</i>.'
 ---
 We propose a differentiable two-stage formulation for random partition models that allows gradient-based optimization of the distribution parameters and is reparameterizable.
 
