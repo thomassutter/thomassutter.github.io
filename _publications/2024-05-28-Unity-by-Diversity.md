@@ -12,4 +12,4 @@ We propose a novel multimodal VAE that enables multimodal capabilities by only s
 
 [Download paper here](https://arxiv.org/abs/2403.05300)
 
-Recommended citation: **TM Sutter**, Y Meng, A Agostini, D Chopard, N Fortin, JE Vogt, B Shahbaba, S Mandt<sub>. (2024) "Unity by Diversity: Improved Representation Learning in Multimodal VAEs." <i>arxiv</i>.
+Recommended citation: **TM Sutter**, Y Meng, A Agostini, D Chopard, N Fortin, JE Vogt, B Shahbaba, S Mandt. (2024) "Unity by Diversity: Improved Representation Learning in Multimodal VAEs." <i>arxiv</i>.
