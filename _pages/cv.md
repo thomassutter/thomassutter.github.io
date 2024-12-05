@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+### [CV as PDF](/files/cv.pdf)
+
 # Education
 
 - Ph.D in Computer Science, Institute of Machine Learning, ETH Zurich, 2023
@@ -17,15 +19,26 @@ redirect_from:
 
 # Work experience
 
-- 2023 - : PostDoc
+- 2023 - : PostDoctoral Researcher, Institute of Machine Learning, ETH Zurich
+  - Development of solutions for multiomics and multimodal healthcare applications (Python, PyTorch)
+  - Evaluation, Design, and Training of multimodal foundation models for the Swiss AI initiative
+  - Leading projects and guiding junior PhD students
   - ETH Zurich: I lead research projects in Prof. Dr. Julia Vogt's lab at ETH Zurich (topics: multimodal learning, generative models)
-  - UC Irvine: I visited Prof. Dr. Stephan Mandt and his group in the fall of 2023 for a research stay.
-- 2015-2018: R&D Software Engineer
-  - Logitech
-  - Consumer Video Unit: I have been mainly working for Logitech’s consumer video unit on developing and improving computer vision algorithms. The work includes various subtasks in a video analytics pipeline which involves motion estimation, as well as appearance based classification and detection methods and testing the developed methods.
-- 2014-2015: R&D Software Engineer
-  - upicto GmbH
-  - The project was a contract by MeteoSchweiz to further improve the algorithm developed during my master thesis and productize the findings. I worked on improving the algorithm to estimate the visibility based on images, developing a rendering pipeline using openGL, programming a GUI and designing an image preprocessing pipeline to decide if an image is suitable for visibility estimation.
+- 2023: Postdoctoral Researche, UC Irvine
+  - I visited Prof. Dr. Stephan Mandt and his group in the fall of 2023 for a research stay.
+  - We worked on developing novel multimodal generative models
+- 2018-2023 Graduate Researcher, Institute of Machine Learning, ETH Zurich
+  - (Co-)Authored 20 scientific publications at top-tier ML conferences (NeurIPS, ICML, ICLR) and in medical journals
+  - Design of multimodal generative models and representation learning methods
+  - Development of pipelines for machine learning applications in the healthcare domain
+- 2015–2018 R&D Software Engineer, Logitech
+  - Developed and improved computer vision algorithms in the Consumer Video Unit
+  - Developed machine learning methods from scratch, collected the data and tested the developed methods on real-world data
+  - Brought various machine learning projects from the prototype to production (Python, Tensorflow, C++)
+- 2014–2015 Project Collaborator, upicto
+  - Worked on computer vision algorithm for estimating the visibility distance using the camera network of MeteoSwiss
+  - Transformed the algorithm and the pipeline from a research project to a production algorithm (Python, R, OpenGL)
+  - Logitech acquired upicto in February 2015
 
 # Publications
 
@@ -44,5 +57,3 @@ redirect_from:
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-<embed src="{{ site.baseurl }}/files/cv.pdf" width="601" height="700" type='application/pdf'>
