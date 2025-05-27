@@ -9,7 +9,7 @@ location: "Zurich, Switzerland"
 ---
 
 I served as a teaching assistant for this introductory computer science course.
-I TAed for this course in the years 2020 and 2021.
+I TAed for this course in the years 2020, 2021, and 2023.
 
 Heading 1
 ======
